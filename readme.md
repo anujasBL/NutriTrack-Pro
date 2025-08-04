@@ -3,7 +3,7 @@
 
 ### Document Information
 - **Version**: 1.1
-- **Product Name**: NutriTrack Pro
+- **Product Name**: NutriTrack Pro 2
 - **Development Approach**: Iterative MVP Development
 - **Authentication**: Google OAuth 2.0 Only
 
